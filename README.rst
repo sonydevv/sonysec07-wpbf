@@ -119,4 +119,4 @@ Or how the script will behave in a normal run::
 Author
 ^^^^^^
 
-* Andres Tarantini (atarantini@gmail.com)
+* Andres Tarantini (sonysecc07@gmail.com)
